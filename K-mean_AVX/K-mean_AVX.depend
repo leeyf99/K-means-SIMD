@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1681818354 source:d:\study\²¢ÐÐ\simd\k-mean_avx\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<immintrin.h>
+
