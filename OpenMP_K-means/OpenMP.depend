@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1684572151 source:d:\study\²¢ÐÐ\pthread\openmp\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<immintrin.h>
+	<omp.h>
+

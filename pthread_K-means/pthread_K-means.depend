@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1684574276 source:d:\study\²¢ÐÐ\pthread\pthread_k-means\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<immintrin.h>
+	<pthread.h>
+
