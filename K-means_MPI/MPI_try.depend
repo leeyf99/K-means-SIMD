@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1685107709 source:d:\study\²¢ÐÐ\mpi\mpi_try\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<immintrin.h>
+	<windows.h>
+	<mpi.h>
+
