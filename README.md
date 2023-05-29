@@ -1,1 +1,1 @@
-# K-means-SIMD
+# K-means-parallel
